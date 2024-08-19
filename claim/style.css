@@ -1,0 +1,130 @@
+body {
+	background-color: #C9D0A1;
+}
+
+img.logo {
+	width: 400px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+
+p.m {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: center;
+
+  color: #564949;
+
+  font-size: 24px;
+}
+
+div.page {
+	position: absolute;
+	left: 50%;
+	width: 1200px;
+	margin-left: -600px;
+
+}
+
+div.b {
+	position: absolute;
+	left: 0;
+	width: 900px;
+
+}
+
+
+div.menu {
+  	font-family: "Source Sans 3", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
+
+	text-align: left;
+
+  	color: #107E7D;
+
+  	font-size: 24px;
+
+  	position: absolute;
+	top: 0px;
+	left: 0;
+}
+
+
+a {
+  	color: #107E7D;
+
+}
+
+
+
+div.languages {
+  	font-family: "Source Sans 3", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
+
+	text-align: right;
+
+  	color: #703D57;
+
+  	font-size: 24px;
+
+  	position: absolute;
+	top: 0px;
+	right: 0;
+}
+
+div.languages a {color: #703D57;}
+
+
+p.b {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: left;
+
+  color: #564949;
+
+  font-size: 24px;
+}
+
+p.bl {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: left;
+
+  color: #564949;
+
+  font-size: 24px;
+
+  padding-left: 1em;
+
+  text-indent: -1em;
+}
+
+
+ol.b {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: left;
+
+  color: #564949;
+
+  font-size: 24px;
+}
+
